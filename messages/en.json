@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "submit": "Submit",
+    "faq": "FAQ",
+    "groundRules": "Ground Rules",
+    "browsePapers": "Browse Papers",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "admin": "Admin",
+    "language": "Language"
+  },
+  "home": {
+    "title": "Welcome to SPARK",
+    "subtitle": "Students' Paper Archive R K (Research Knowledge)",
+    "description": "A platform for students to share, discover, and collaborate on academic research",
+    "cta": "Start Exploring",
+    "featuredPapers": "Featured Papers",
+    "browseAll": "Browse All Papers"
+  },
+  "papers": {
+    "title": "Browse Papers",
+    "search": "Search papers...",
+    "filter": "Filter",
+    "categories": "Categories",
+    "keywords": "Keywords",
+    "sort": "Sort",
+    "sortRecent": "Most Recent",
+    "sortPopular": "Most Popular",
+    "sortMostViewed": "Most Viewed",
+    "noResults": "No papers found",
+    "views": "Views",
+    "downloads": "Downloads",
+    "abstract": "Abstract",
+    "authors": "Authors",
+    "readMore": "Read More",
+    "download": "Download PDF"
+  },
+  "submit": {
+    "title": "Submit Paper",
+    "warning": "We highly recommend you are fully aware of paper submission form before you submit your paper",
+    "title_placeholder": "Paper Title",
+    "abstract_placeholder": "Paper Abstract (max 500 words)",
+    "authors": "Authors",
+    "addAuthor": "Add Author",
+    "categories": "Select Categories (max 5)",
+    "keywords": "Add Keywords (hashtags, max 10)",
+    "keywords_placeholder": "#example",
+    "pdf": "Upload PDF",
+    "submit": "Submit Paper",
+    "success": "Paper submitted successfully!",
+    "error": "Submission failed"
+  },
+  "comments": {
+    "title": "Comments",
+    "addComment": "Add a comment...",
+    "reply": "Reply",
+    "delete": "Delete",
+    "inappropriate": "Your comment contains inappropriate language. Please edit and try again.",
+    "noComments": "No comments yet",
+    "loginToComment": "Please login to comment"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "affiliation": "Affiliation",
+    "country": "Country",
+    "academicLevel": "Academic Level",
+    "primaryDiscipline": "Primary Discipline",
+    "login": "Login",
+    "signup": "Sign Up",
+    "or": "or",
+    "haveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "invalidCredentials": "Invalid email or password",
+    "userExists": "User already exists",
+    "success": "Sign up successful!"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "pendingPapers": "Pending Papers",
+    "approve": "Approve",
+    "reject": "Reject",
+    "manageFAQ": "Manage FAQ",
+    "manageNotifications": "Manage Notifications",
+    "groundRulesEditor": "Ground Rules Editor",
+    "badWordsEditor": "Bad Words Editor",
+    "commentModeration": "Comment Moderation",
+    "footerSettings": "Footer Settings",
+    "donations": "Donations",
+    "analytics": "Analytics",
+    "userManagement": "User Management",
+    "ban": "Ban",
+    "unban": "Unban",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "footer": {
+    "spark": "SPARK = Students' Paper Archive R K (Research Knowledge)",
+    "wechat": "WeChat ID: ",
+    "copyright": "© 2024 SPARK. All rights reserved."
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "unauthorized": "Unauthorized access",
+    "serverError": "Server error",
+    "tryAgain": "Try Again"
+  }
+}
